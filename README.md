@@ -6,6 +6,33 @@
 
 **Series Log** is an offline Android tracker for the series you follow — with a built-in browser for reading, per-series progress, and no account or cloud sync. Your data stays on your phone.
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/library.jpg" width="280" alt="Library"><br>
+  <b>Library</b> — Your series at a glance, with progress, ratings, and recency
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/browser.jpg" width="280" alt="Browser"><br>
+  <b>Browser</b> — Read in the built-in browser, with tabs and a clean read mode
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/tabs.jpg" width="280" alt="Tab switcher"><br>
+  <b>Tabs</b> — Chrome-style tab switcher, persistent across sessions
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/detail.jpg" width="280" alt="Series detail"><br>
+  <b>Series detail</b> — Progress, status, and a 10-star rating per series
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/bookmarks.jpg" width="280" alt="Bookmarks"><br>
+  <b>Bookmarks</b> — Save pages to pick up where you left off
+</p>
+
 ## Features
 
 - **Built-in browser** — Chrome-style tabs, bookmarks, history, and a clean read mode
